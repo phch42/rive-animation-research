@@ -1,0 +1,1 @@
+console.log('Rive Animation Research initialized');
